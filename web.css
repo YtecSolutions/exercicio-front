@@ -1,0 +1,43 @@
+body {
+    background-image: url(imagens/programadorCss.jpg);
+    background-size: cover
+}
+
+
+
+header {
+
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: white;
+}
+
+hr {
+    height: 5px;
+}
+
+button {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(127, 136, 216);
+    border-color: blue;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
+
+
+footer {
+    background-image: url(imagens/logo-w3c.gif);
+
+
+
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    
+}
